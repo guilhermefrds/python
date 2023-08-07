@@ -9,3 +9,4 @@ coordenadas = (-49, -36)
 
 print(coordenadas[0])
 print(coordenadas.count(-49))
+
